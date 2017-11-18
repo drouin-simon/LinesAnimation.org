@@ -9,5 +9,5 @@ Lines was used today in a collaborative animation workshop during the design con
 
 <p>Below is the animation clip that was produced during the hour-long workshop.</p>
 
-<iframe src="https://player.vimeo.com/video/242936879?loop=1" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/242936879?loop=1&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <!--more-->
