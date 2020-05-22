@@ -16,4 +16,4 @@ The most unique feature of the program is to enable real-time collaborative crea
 
 Lines can be used in small private groups, but also in public performances, where an additional computer is typically connected to a projector and plays back the clip in a loop, showing the evolution for the audience.
 
-Lines was created and developped by [Simon Drouin](http://nist.mni.mcgill.ca/?page_id=369).
+Lines was created and developped by [Simon Drouin](https://profs.etsmtl.ca/sidrouin/).
